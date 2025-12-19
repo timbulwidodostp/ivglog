@@ -1,4 +1,5 @@
-D 'DEA': Data envelopment analysis
+D 'ivglog': Inverse Gaussian distribution-log link MLE model Use ivglog With STATA 19
 D
-F dea.ado
-F dea.sthlp
+F ivgln_ll.ado
+F ivglog.ado
+F ivglog.hlp
