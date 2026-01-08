@@ -1,6 +1,8 @@
 # ivglog
 Inverse Gaussian distribution-log link MLE model Use ivglog With STATA 19
 
+https://www.youtube.com/watch?v=05FNlWHnZ7Y
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
